@@ -70,7 +70,6 @@
           </a>
         </p>
 
-<h3>stasistic</h3>
         <p align="center">
           <a href="https://github.com/waelby99/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=waelby99&show_icons=true&theme=gruvbox&hide_border=true" />
