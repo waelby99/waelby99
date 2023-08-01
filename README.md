@@ -83,9 +83,7 @@
 <h3 align="center">☎️ contact me</h3>
 <div>
   
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br/>
+    
      
       <a href="https://www.linkedin.com/in/wael-ben-youssef-860b5a174/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
