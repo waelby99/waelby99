@@ -17,7 +17,7 @@
 ---
 
 <h3 align="center"> 🧰 Languages and Tools </h3>
-
+<br>
 <div align="center">
   <p float="left">
     <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
