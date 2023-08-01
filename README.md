@@ -56,8 +56,6 @@
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
   
-    
-  <h4>Languages</h4>
             <p align="center">
         <a href="https://github.com/waelby99/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
@@ -72,4 +70,11 @@
           </a>
         </p>
 
-
+<h3>stasistic</h3>
+        <p align="center">
+          <a href="https://github.com/waelby99/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=waelby99&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=waelby99&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
