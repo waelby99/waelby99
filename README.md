@@ -49,7 +49,7 @@
     <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
   </p>
 </div>
-<br><br>
+<br>
 
 
 ---
