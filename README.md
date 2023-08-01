@@ -1,5 +1,5 @@
 <!-- Centered Heading -->
-<h1 align="center">Hi there 👋 It's Wael</h1>
+<h1 align="center">Hi 👋 It's Wael</h1>
 
 <!-- Centered Subheading -->
 <h4 align="center">I'm Wael Ben Youssef, a 24-year-old IT student pursuing engineering at ESPRIT. Video games and lifting weights fuel my passion, giving me the drive to explore and excel in the world of technology. Proficient in Java, Angular, and Symfony, I've developed a solid foundation, but my hunger for knowledge remains insatiable. I'm constantly seeking opportunities to learn and grow, eager to unravel new challenges and contribute to innovative projects. Join me on this exciting journey as we push the boundaries of what's possible in the realm of software development. Let's code the future together! 🚀</h4>
@@ -38,7 +38,7 @@
 <img align="left" alt="JQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+ <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/><br>
  <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
  <img align="left" alt="PHPStorm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" />
  <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
