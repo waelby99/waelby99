@@ -55,6 +55,9 @@
 
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
+<a href="github.com/waelby99" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=waelby99&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
 <p align="center">
         <a href="https://github.com/waelby99/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
