@@ -55,9 +55,7 @@
 
 
 <h3 align="center">📊 GitHub Profile Stats</h3>
-<a href="github.com/waelby99" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=waelby99&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
+
 <p align="center">
         <a href="https://github.com/waelby99/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
@@ -79,4 +77,35 @@
        </p>
        
 
+---
+
+
+<summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+     x
+      <a href="https://www.linkedin.com/in/wael-ben-youssef-860b5a174/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.facebook.com/wael.benyoussef3/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:waelbenyoussef19991@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/wael.ben.youssef_" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="github.com/waelby99" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=waelby99&style=for-the-badge&label=PROFILE+VIEWS" height="30"
+     alt="views count" /></a>
+      <br>
+    </p>
+  </samp>
+</div>
         
