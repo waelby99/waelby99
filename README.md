@@ -54,10 +54,8 @@
 ---
 
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
+<h3 align="center">💻 GitHub Profile Stats</h3>
+  
     <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
