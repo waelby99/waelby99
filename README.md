@@ -4,7 +4,7 @@
 
 ---
 
-![snake gif](https://github.com/waelby99/waelby99/blob/output/github-contribution-grid-snake.svg)
+![gitartwork](gitartwork.svg)
 
 ---
 
