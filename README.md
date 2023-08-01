@@ -4,8 +4,7 @@
 
 ---
 
-<img  src="https://user-images.githubusercontent.com/58667227/229009150-66bd68d8-e0c7-49ab-afb0-606d923c3e83.svg"
-       alt="snake" /></a>
+
 
 ---
 
