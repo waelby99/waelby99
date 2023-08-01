@@ -56,11 +56,7 @@
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
   
-            <p align="center">
-        <a href="https://github.com/waelby99/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="waelby99 :: overall Top Langs " /></a>
-      </p>
+           
        
 
         
