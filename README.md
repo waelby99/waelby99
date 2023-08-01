@@ -54,7 +54,7 @@
 ---
 
 
-<h3 align="center">💻 GitHub Profile Stats</h3>
+<h3 align="center">📊 GitHub Profile Stats</h3>
 <a href="github.com/waelby99" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=waelby99&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
