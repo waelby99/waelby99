@@ -4,7 +4,7 @@
 
 ---
 
- <img  src="https://github.com/waelby99/waelby99/blob/main/grid-snake.svg"
+ <img align="center" src="https://github.com/waelby99/waelby99/blob/main/grid-snake.svg"
        alt="snake" /></a>
 
 ---
