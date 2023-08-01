@@ -8,7 +8,7 @@
 
 
 <p align="center">
- <h3 align="center"> Snake eating contribution grid </h3>
+ <h3 align="center"> 🐍 Snake eating contribution grid </h3>
   <img src="https://github.com/waelby99/waelby99/blob/main/grid-snake.svg" alt="snake" />
   <br>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+<h3 align="center"> 🧰 Languages and Tools </h3>
 <div align="center">
   <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
