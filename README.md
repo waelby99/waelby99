@@ -1,99 +1,135 @@
-<!-- Gradient Header with Wave Divider -->
+<!-- Modern Header with Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=500&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Wael" alt="Hi, I'm Wael" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header"/>
   
-  ![Wave Divider](https://raw.githubusercontent.com/waelby99/waelby99/main/wave.svg)
+  # Hello World, I'm Wael 👋
   
-  <h3 align="center">IT Engineering Student | Full Stack Developer | Fitness Enthusiast</h3>
+  <p>
+    <em>Software Engineering Student at <a href="https://esprit.tn/">ESPRIT</a> 🎓</em><br>
+    <em>Passionate Developer & Technology Enthusiast 💻</em>
+  </p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wael-ben-youssef-860b5a174/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waelbenyoussef19991@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wael.benyoussef3/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wael.ben.youssef_)
+  [![Profile Views](https://komarev.com/ghpvc/?username=waelby99&style=for-the-badge&color=blueviolet)](github.com/waelby99)
 </div>
 
-<!-- Animated Introduction -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=700&lines=25+years+old+IT+student+at+ESPRIT;Passionate+about+coding+and+weightlifting;Java+%7C+Angular+%7C+Symfony+developer;Always+learning+and+building+cool+stuff" alt="About Me" />
-</p>
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-<!-- Snake Animation with Glow Effect -->
+<!-- About Me Section with Improved Layout -->
 <div align="center">
-  <h3>🐍 My Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/waelby99/waelby99/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <h2>🚀 About Me</h2>
+  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+  
+  <div align="left" style="max-width: 60%;">
+    <p>
+      I'm a 25-year-old IT engineering student at ESPRIT with a passion for innovative software solutions. When I'm not coding, you'll find me conquering virtual worlds in video games or lifting weights at the gym.
+    </p>
+    <p>
+      My technical foundation includes Java, Angular, and Symfony, but I'm constantly expanding my skillset. I believe in continuous learning and pushing the boundaries of what's possible in software development.
+    </p>
+    <p>
+      Let's connect and build something amazing together! 🌟
+    </p>
+  </div>
 </div>
 
----
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Contact Section with Animated Icons -->
-<h3 align="center">📬 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/wael-ben-youssef-860b5a174/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wael-ben-youssef-860b5a174/" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:waelbenyoussef19991@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:waelbenyoussef19991@gmail.com" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/wael.benyoussef3/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/wael.benyoussef3/" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/wael.ben.youssef_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/wael.ben.youssef_" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waelby99&label=Profile%20views&color=7E3ACE&style=flat" alt="waelby99" /> 
-</p>
-
----
-
-<!-- Skills Section with Progress Bars -->
-<h3 align="center">🛠️ My Tech Stack</h3>
-
+<!-- Skills Section with Categories -->
 <div align="center">
+  <h2>🛠️ Technical Skills</h2>
   
-  ### 💻 Programming Languages
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <h3>Programming Languages</h3>
+  <p>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  </p>
   
-  ### 🌐 Frontend Development
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <h3>Web Development</h3>
+  <p>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  </p>
   
-  ### 🏗️ Backend & Databases
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <h3>Back-End & Frameworks</h3>
+  <p>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+    <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+  </p>
   
-  ### 🔧 Tools
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <h3>Databases</h3>
+  <p>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  </p>
+  
+  <h3>Tools & Others</h3>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  </p>
 </div>
 
----
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Stats with Glow Effect -->
-<h3 align="center">📈 GitHub Analytics</h3>
-
+<!-- GitHub Stats with Consistent Theme -->
 <div align="center">
+  <h2>📊 GitHub Analytics</h2>
   
-  ![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=waelby99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE)
+  <p>
+    <a href="https://github.com/waelby99">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waelby99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&layout=compact&langs_count=8&theme=tokyonight"/>
+    </a>
+  </p>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=waelby99&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakNum=FFFFFF&sideNums=7E3ACE&currStreakLabel=7E3ACE&sideLabels=7E3ACE)](https://git.io/streak-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE)
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waelby99&theme=tokyonight" alt="waelby99" />
+  </p>
 </div>
 
----
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://github.com/waelby99/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=waelby99&theme=tokyo-night" />
+  </a>
+</div>
 
-<!-- Footer with Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+  <img src="https://github.com/waelby99/waelby99/blob/main/grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Footer -->
+<div align="center">
+  <p>
+    <i>Thanks for visiting my profile! Feel free to reach out and connect.</i>
+  </p>
+  <p>
+    <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
+  </p>
+</div>
