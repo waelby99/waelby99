@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header"/>
   
-  # Hello World !, I'm Wael 👋
+  # Hello World ! I'm Wael 👋
   
   <p>
     <em>Software Engineering Student at <a href="https://esprit.tn/">ESPRIT</a> 🎓</em><br>
