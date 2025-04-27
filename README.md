@@ -33,6 +33,9 @@
       My technical foundation includes Java, Spring Boot, React, Angular, and Symfony, but I'm constantly expanding my skillset. I believe in continuous learning and pushing the boundaries of what's possible in software development.
     </p>
     <p>
+      Currently, I'm also focused on learning <strong>Web Application Security Fundamentals</strong>, enhancing my understanding of how to build safer and more resilient applications. 🔒
+    </p>
+    <p>
       Let's connect and build something amazing together! 🌟
     </p>
   </div>
