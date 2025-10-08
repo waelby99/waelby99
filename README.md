@@ -27,7 +27,7 @@
   
   <div align="left" style="max-width: 60%;">
     <p>
-      I'm a 25-year-old IT engineering student at ESPRIT with a passion for innovative software solutions. When I'm not coding, you'll find me conquering virtual worlds in video games or lifting weights at the gym.
+      I'm a 26-year-old IT engineering student at ESPRIT with a passion for innovative software solutions. When I'm not coding, you'll find me conquering virtual worlds in video games or lifting weights at the gym.
     </p>
     <p>
       My technical foundation includes Java, Spring Boot, React, Angular, and Symfony, but I'm constantly expanding my skillset. I believe in continuous learning and pushing the boundaries of what's possible in software development.
