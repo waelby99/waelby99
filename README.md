@@ -5,7 +5,7 @@
   # Hello World ! I'm Wael 👋
   
   <p>
-    <em>Software Engineering Student at <a href="https://esprit.tn/">ESPRIT</a> 🎓</em><br>
+    <em>Software Engineering at <a href="#">DaleelTeq</a> 🎓</em><br>
     <em>Passionate Developer & Technology Enthusiast 💻</em>
   </p>
 
