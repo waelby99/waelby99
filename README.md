@@ -2,12 +2,12 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Wael%20Ben%20Youssef&fontSize=46&fontAlignY=35&desc=Software%20Engineer%20%7C%20Python%20%26%20Data%20Science%20Research&descAlignY=55&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=gradient&amp;text=Wael%20Ben%20Youssef&amp;fontSize=46&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Python%20%26%20Data%20Science%20Research&amp;descAlignY=55&amp;animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=920&lines=Python+%7C+Machine+Learning+%7C+Data+Science;M2+Research+in+Data+Science+%40+ENSI;Full-Stack+Software+Engineer+%40+DaleelTeq;Java+%7C+Spring+Boot+%7C+Angular;Computer+Vision+%7C+Signal+Processing;Monoliths+%7C+Microservices+%7C+REST+APIs"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Python+%7C+Machine+Learning+%7C+Data+Science;M2+Research+in+Data+Science+%40+ENSI;Full-Stack+Software+Engineer+%40+DaleelTeq;Java+%7C+Spring+Boot+%7C+Angular;Computer+Vision+%7C+Signal+Processing;Monoliths+%7C+Microservices+%7C+REST+APIs"
     alt="Typing SVG"
   />
 </a>
@@ -15,21 +15,21 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient
 <br/>
 
 <a href="https://waelby99.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/wael-ben-youssef-860b5a174/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:waelbenyoussef19991@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <img
-src="https://komarev.com/ghpvc/?username=waelby99&label=PROFILE+VIEWS&style=flat-square"
+src="https://komarev.com/ghpvc/?username=waelby99&amp;label=PROFILE+VIEWS&amp;style=flat-square"
 alt="Profile Views"
 />
 
@@ -80,7 +80,7 @@ Beyond work and university, I practice **data structures and algorithms** on Lee
 
 ---
 
-# 🎓 Education & Research Interests
+# 🎓 Education &amp; Research Interests
 
 ### 🏫 Academic Path
 
@@ -98,11 +98,11 @@ Beyond work and university, I practice **data structures and algorithms** on Lee
 | **Data Compression** | Compression standards, emerging techniques, and efficient representation |
 | **Applied Data Science** | Credit risk analysis, gait analysis, and real-world ML applications |
 
-**Mathematical foundations:** Linear Algebra · Probability · Statistics · Optimization & numerical methods *(areas I'm strengthening)*
+**Mathematical foundations:** Linear Algebra · Probability · Statistics · Optimization &amp; numerical methods *(areas I'm strengthening)*
 
 My goal is to build a strong bridge between **software engineering and scientific research**, especially through hands-on ML projects and future research collaborations.
 
-## 🐍 Python for Machine Learning & Research
+## 🐍 Python for Machine Learning &amp; Research
 
 **Python is my main language for exploring machine learning and data science**, alongside Java as my primary professional backend language.
 
@@ -119,7 +119,7 @@ My goal is to build a strong bridge between **software engineering and scientifi
 
 ## ☕ Backend
 
-<img src="https://skillicons.dev/icons?i=python,java,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring&amp;theme=dark"/>
 
 <br/><br/>
 
@@ -137,7 +137,7 @@ My goal is to build a strong bridge between **software engineering and scientifi
 
 ## 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind&amp;theme=dark"/>
 
 <br/><br/>
 
@@ -145,9 +145,9 @@ My goal is to build a strong bridge between **software engineering and scientifi
 
 <br/>
 
-## 🐍 Python, Machine Learning & Research
+## 🐍 Python, Machine Learning &amp; Research
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark"/>
 
 <br/><br/>
 
@@ -159,7 +159,7 @@ My goal is to build a strong bridge between **software engineering and scientifi
 
 ## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&amp;theme=dark"/>
 
 <br/><br/>
 
@@ -167,9 +167,9 @@ My goal is to build a strong bridge between **software engineering and scientifi
 
 <br/>
 
-## 🐳 DevOps & Tools
+## 🐳 DevOps &amp; Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,idea,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,idea,vscode,postman&amp;theme=dark"/>
 
 <br/><br/>
 
@@ -324,11 +324,11 @@ I work with the architecture that best fits the application's scope and requirem
 
 ---
 
-# 🗄️ Databases & Persistence
+# 🗄️ Databases &amp; Persistence
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&amp;theme=dark"/>
 
 </div>
 
@@ -355,10 +355,10 @@ My strongest database experience is with **PostgreSQL**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&amp;logo=keycloak&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OIDC-3C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/RBAC-0052CC?style=for-the-badge"/>
 
 </div>
@@ -380,17 +380,17 @@ Including:
 
 ---
 
-# 🐳 DevOps & Monitoring
+# 🐳 DevOps &amp; Monitoring
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&amp;theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&amp;logo=minio&amp;logoColor=white"/>
 
 </div>
 
@@ -416,7 +416,7 @@ Experience with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,c,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,c,php&amp;theme=dark"/>
 
 </div>
 
@@ -450,20 +450,20 @@ My **professional engineering stack** is primarily **Java + Spring Boot + Angula
 
 ---
 
-# 🧠 Problem Solving & Algorithms
+# 🧠 Problem Solving &amp; Algorithms
 
 <div align="center">
 
-I regularly practice **Data Structures & Algorithms** to strengthen my engineering fundamentals, problem-solving ability and technical interview skills.
+I regularly practice **Data Structures &amp; Algorithms** to strengthen my engineering fundamentals, problem-solving ability and technical interview skills.
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/waelby99/">
-  <img src="https://img.shields.io/badge/LeetCode-waelby99-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-waelby99-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
 </a>
 
 <a href="https://codeforces.com/profile/waelby99">
-  <img src="https://img.shields.io/badge/Codeforces-waelby99-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-waelby99-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white"/>
 </a>
 
 <a href="https://codolio.com/profile/waelby99">
@@ -550,9 +550,9 @@ I regularly practice **Data Structures & Algorithms** to strengthen my engineeri
 </tr>
 </table>
 
-### 🔬 Python & Research Foundations
+### 🔬 Python &amp; Research Foundations
 
-`Python` • `Machine Learning` • `Data Analysis` • `Linear Algebra` • `Probability & Statistics` • `Computer Vision` • `Level Sets` • `Multidimensional Signal Processing` • `Data Compression`
+`Python` • `Machine Learning` • `Data Analysis` • `Linear Algebra` • `Probability and Statistics` • `Computer Vision` • `Level Sets` • `Multidimensional Signal Processing` • `Data Compression`
 
 I'm actively strengthening my **Python-based experimental workflow**, mathematical foundations, and ability to read research papers, evaluate methods, and build reproducible prototypes.
 
@@ -562,33 +562,33 @@ I'm actively strengthening my **Python-based experimental workflow**, mathematic
 
 <div align="center">
 
-### ⭐ Primary Stack — Engineering & Research
+### ⭐ Primary Stack — Engineering &amp; Research
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,angular,ts,postgres,docker&perline=7&theme=dark"/>
-
-<br/><br/>
-
-### Backend & Frontend
-
-<img src="https://skillicons.dev/icons?i=python,java,spring,angular,ts,js,html,css,tailwind&perline=9&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring,angular,ts,postgres,docker&amp;perline=7&amp;theme=dark"/>
 
 <br/><br/>
 
-### Databases & Infrastructure
+### Backend &amp; Frontend
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,gitlab&perline=7&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring,angular,ts,js,html,css,tailwind&amp;perline=9&amp;theme=dark"/>
+
+<br/><br/>
+
+### Databases &amp; Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,gitlab&amp;perline=7&amp;theme=dark"/>
 
 <br/><br/>
 
 ### Additional Experience
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,c,php&perline=5&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,c,php&amp;perline=5&amp;theme=dark"/>
 
 <br/><br/>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman&perline=3&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman&amp;perline=3&amp;theme=dark"/>
 
 </div>
 
@@ -600,20 +600,20 @@ I'm actively strengthening my **Python-based experimental workflow**, mathematic
 
 <img
 height="175"
-src="https://github-readme-stats.vercel.app/api?username=waelby99&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=waelby99&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github"
 alt="Wael's GitHub Stats"
 />
 
 <img
 height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelby99&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8"
 alt="Most Used Languages"
 />
 
 <br/><br/>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=waelby99&theme=github-dark-blue&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=waelby99&amp;theme=github-dark-blue&amp;hide_border=true"
 alt="GitHub Streak"
 />
 
@@ -627,7 +627,7 @@ alt="GitHub Streak"
 
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=waelby99&theme=github-compact&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=waelby99&amp;theme=github-compact&amp;hide_border=true&amp;area=true"
 alt="GitHub Activity Graph"
 />
 
@@ -653,19 +653,19 @@ alt="GitHub Contribution Snake"
 <div align="center">
 
 <a href="https://waelby99.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/waelby99">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/wael-ben-youssef-860b5a174/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:waelbenyoussef19991@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -690,7 +690,7 @@ I'm interested in connecting with engineers and researchers, contributing to mea
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"
+src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;section=footer&amp;color=gradient"
 />
 
 </div>
