@@ -2,12 +2,12 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Wael%20Ben%20Youssef&fontSize=46&fontAlignY=35&desc=Junior%20Full-Stack%20Software%20Engineer&descAlignY=55&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Wael%20Ben%20Youssef&fontSize=46&fontAlignY=35&desc=Software%20Engineer%20%7C%20Python%20%26%20Data%20Science%20Research&descAlignY=55&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=780&lines=Java+%7C+Spring+Boot+%7C+Angular;Junior+Full-Stack+Software+Engineer;Monoliths+%7C+Microservices+%7C+REST+APIs;PostgreSQL+%7C+Docker+%7C+CI%2FCD;Data+Structures+%26+Algorithms"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=920&lines=Python+%7C+Machine+Learning+%7C+Data+Science;M2+Research+in+Data+Science+%40+ENSI;Full-Stack+Software+Engineer+%40+DaleelTeq;Java+%7C+Spring+Boot+%7C+Angular;Computer+Vision+%7C+Signal+Processing;Monoliths+%7C+Microservices+%7C+REST+APIs"
     alt="Typing SVG"
   />
 </a>
@@ -42,48 +42,74 @@ alt="Profile Views"
 ```java
 public class Wael {
 
-    String role = "Junior Full-Stack Software Engineer";
-
+    String role = "Full-Stack Software Engineer";
     String company = "DaleelTeq";
+    String education = "M2 Research in Data Science @ ENSI";
 
-    int age = 27;
+    String[] softwareEngineering = {
+        "Java", "Spring Boot", "Angular", "PostgreSQL", "Docker"
+    };
 
-    String[] coreStack = {
-        "Java",
-        "Spring Boot",
-        "Angular",
-        "PostgreSQL"
+    String[] researchToolkit = {
+        "Python", "Machine Learning", "Data Analysis", "Computer Vision"
     };
 
     String[] architectures = {
-        "Monolithic Applications",
-        "Microservices"
+        "Monolithic Applications", "Microservices"
     };
 
-    String[] interests = {
-        "Backend Engineering",
-        "Full-Stack Development",
-        "Software Architecture",
-        "Distributed Systems",
-        "Data Structures & Algorithms"
+    String[] researchInterests = {
+        "Machine Learning", "Computer Vision",
+        "Multidimensional Signal Processing", "Data Compression"
     };
 
     String currentGoal =
-        "Become a stronger software engineer every single day.";
+        "Build reliable software and grow through research.";
 }
 ```
 
-I'm a **27-year-old Junior Full-Stack Software Engineer** currently working at **DaleelTeq**, where I contribute to the development and maintenance of enterprise web applications.
+I'm a **Full-Stack Software Engineer at DaleelTeq** and an **M2 Research Master's student in Data Science at ENSI (2026–2027)**. I also hold a **Computer Engineering degree from ESPRIT**.
 
-My main technical focus is the **Java ecosystem**, particularly **Java, Spring Boot, REST APIs, PostgreSQL and Angular**.
+My work spans two complementary areas: **full-stack software engineering** and **Python-based machine learning / data science**.
 
-I have experience working with both **monolithic applications and microservices architectures**, depending on the needs, complexity and structure of the project.
+At **DaleelTeq**, I build and maintain enterprise applications using **Java, Spring Boot, Angular, PostgreSQL, and Docker**, with experience in both **monolithic systems and microservices**. I enjoy turning complex requirements into maintainable APIs, reliable backend logic, and useful interfaces.
 
-I enjoy working across the full software development lifecycle — from implementing backend business logic and designing APIs to developing frontend interfaces, working with databases, debugging applications, testing, monitoring and deployment.
+**Python is central to my data science journey.** I've used it for **machine learning, data processing, and analysis**, including a **customer churn prediction project**. As an ENSI M2 Research student, I'm developing my foundations in **advanced machine learning, computer vision, multidimensional signal processing, and data compression**, with a focus on applying research ideas in practical experiments.
 
-I have also built smaller projects using **React and Node.js**, giving me additional exposure to the JavaScript ecosystem, while my primary professional stack remains **Java / Spring Boot / Angular**.
+Beyond work and university, I practice **data structures and algorithms** on LeetCode and Codeforces, and I enjoy exploring new technologies and improving my problem-solving skills.
 
-Outside professional development, I regularly improve my **Data Structures & Algorithms** and problem-solving skills through **LeetCode, Codeforces and Codolio**.
+---
+
+# 🎓 Education & Research Interests
+
+### 🏫 Academic Path
+
+- **2026–2027 | ENSI** — M2 Research Master's in **Data Science** *(currently pursuing)*
+- **2022–2025 | ESPRIT** — Computer Engineering degree
+- **2018–2022 | ISET Charguia** — Bachelor's degree in Information Technology
+
+### 🔬 What I'm Studying and Exploring
+
+| Area | Topics of interest |
+| --- | --- |
+| **Machine Learning** | Advanced ML methods, model evaluation, and data-driven problem solving |
+| **Computer Vision** | 3D/4D vision, active contours, level sets, and image analysis |
+| **Signal Processing** | Multidimensional signal processing and mathematical representations |
+| **Data Compression** | Compression standards, emerging techniques, and efficient representation |
+| **Applied Data Science** | Credit risk analysis, gait analysis, and real-world ML applications |
+
+**Mathematical foundations:** Linear Algebra · Probability · Statistics · Optimization & numerical methods *(areas I'm strengthening)*
+
+My goal is to build a strong bridge between **software engineering and scientific research**, especially through hands-on ML projects and future research collaborations.
+
+## 🐍 Python for Machine Learning & Research
+
+**Python is my main language for exploring machine learning and data science**, alongside Java as my primary professional backend language.
+
+- **Hands-on experience:** data processing, exploratory analysis, ML experiments, scripting, and prototyping
+- **Previous ML project:** customer churn prediction using Python
+- **Current research direction:** computer vision, signal processing, and data-driven modeling through my ENSI M2 studies
+- **What I'm building toward:** stronger mathematical foundations, rigorous model evaluation, and reproducible research code
 
 ---
 
@@ -116,6 +142,18 @@ Outside professional development, I regularly improve my **Data Structures & Alg
 <br/><br/>
 
 `Angular` • `TypeScript` • `RxJS` • `HTML5` • `CSS3` • `TailwindCSS`
+
+<br/>
+
+## 🐍 Python, Machine Learning & Research
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br/><br/>
+
+`Python` • `Machine Learning` • `Data Processing` • `Data Analysis` • `ML Prototyping`
+
+`Computer Vision` • `Signal Processing` • `Research Methods`
 
 <br/>
 
@@ -187,6 +225,7 @@ I work with the architecture that best fits the application's scope and requirem
 
 # 💼 What I Work With
 
+* 🐍 **Python for machine learning, data analysis, and prototyping**
 * ☕ **Java backend development**
 * 🍃 **Spring Boot applications**
 * 🌐 **Angular full-stack applications**
@@ -376,7 +415,7 @@ Experience with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,python,c,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,c,php&theme=dark"/>
 
 </div>
 
@@ -402,26 +441,11 @@ Used in **smaller backend and full-stack projects** for:
 * Backend routing
 * API integrations
 
-### Python
-
-Used for:
-
-* Data processing
-* Machine learning projects
-* Scripting
-* Data analysis
-
 ### Other Languages
 
 `C` • `PHP`
 
-My main professional focus remains:
-
-<div align="center">
-
-### ☕ Java + Spring Boot + Angular
-
-</div>
+My **professional engineering stack** is primarily **Java + Spring Boot + Angular**; my **data science and research work** centers on **Python**.
 
 ---
 
@@ -524,15 +548,21 @@ I regularly practice **Data Structures & Algorithms** to strengthen my engineeri
 </tr>
 </table>
 
+### 🔬 Python & Research Foundations
+
+`Python` • `Machine Learning` • `Data Analysis` • `Linear Algebra` • `Probability & Statistics` • `Computer Vision` • `Level Sets` • `Multidimensional Signal Processing` • `Data Compression`
+
+I'm actively strengthening my **Python-based experimental workflow**, mathematical foundations, and ability to read research papers, evaluate methods, and build reproducible prototypes.
+
 ---
 
 # 🛠️ Technology Overview
 
 <div align="center">
 
-### ⭐ Primary Stack
+### ⭐ Primary Stack — Engineering & Research
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,docker&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring,angular,ts,postgres,docker&perline=7&theme=dark"/>
 
 <br/><br/>
 
@@ -550,7 +580,7 @@ I regularly practice **Data Structures & Algorithms** to strengthen my engineeri
 
 ### Additional Experience
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,python,c,php&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,c,php&perline=5&theme=dark"/>
 
 <br/><br/>
 
@@ -616,26 +646,6 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# 🌐 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/waelby99/">
-  <img src="https://img.shields.io/badge/LeetCode-waelby99-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/waelby99">
-  <img src="https://img.shields.io/badge/Codeforces-waelby99-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/profile/waelby99">
-  <img src="https://img.shields.io/badge/Codolio-waelby99-6C63FF?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
 # 🌍 Find Me Online
 
 <div align="center">
@@ -666,9 +676,9 @@ alt="GitHub Contribution Snake"
 
 > ### `Build → Break → Debug → Learn → Improve → Repeat`
 
-I enjoy solving problems, understanding how software systems work and continuously improving as an engineer.
+I enjoy understanding how systems work, building maintainable software, and learning the mathematics and methods behind modern data science.
 
-I'm always interested in connecting with other developers, learning from experienced engineers and exploring challenging **Software Engineering opportunities**.
+I'm interested in connecting with engineers and researchers, contributing to meaningful projects, and exploring **software engineering and research opportunities**.
 
 <br/>
 
