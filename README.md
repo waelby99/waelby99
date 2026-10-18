@@ -47,7 +47,7 @@ public class Wael {
     String education = "M2 Research in Data Science @ ENSI";
 
     String[] softwareEngineering = {
-        "Java", "Spring Boot", "Angular", "PostgreSQL", "Docker"
+        "Python", "Java", "Spring Boot", "Angular", "PostgreSQL", "Docker"
     };
 
     String[] researchToolkit = {
@@ -119,11 +119,11 @@ My goal is to build a strong bridge between **software engineering and scientifi
 
 ## ☕ Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring&theme=dark"/>
 
 <br/><br/>
 
-`Java` • `Spring Boot` • `Spring Cloud` • `REST APIs`
+`Python` • `Java` • `Spring Boot` • `Spring Cloud` • `REST APIs`
 `JPA / Hibernate` • `Feign Client` • `API Gateway`
 
 <br/>
@@ -225,7 +225,7 @@ I work with the architecture that best fits the application's scope and requirem
 
 # 💼 What I Work With
 
-* 🐍 **Python for machine learning, data analysis, and prototyping**
+* 🐍 **Python for scripting, backend tooling, machine learning, and data analysis**
 * ☕ **Java backend development**
 * 🍃 **Spring Boot applications**
 * 🌐 **Angular full-stack applications**
@@ -249,8 +249,9 @@ I work with the architecture that best fits the application's scope and requirem
 <tr>
 <td width="50%" valign="top">
 
-### ☕ Java / Spring
+### ☕ Java / Spring / Python
 
+* Python (scripting and backend tooling)
 * Java
 * Spring Boot
 * Spring Cloud
@@ -513,6 +514,7 @@ I regularly practice **Data Structures & Algorithms** to strengthen my engineeri
 
 ### 💻 Software Engineering
 
+* Python scripting and backend tooling
 * Advanced Java
 * Spring Boot
 * Spring ecosystem
@@ -568,7 +570,7 @@ I'm actively strengthening my **Python-based experimental workflow**, mathematic
 
 ### Backend & Frontend
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,tailwind&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring,angular,ts,js,html,css,tailwind&perline=9&theme=dark"/>
 
 <br/><br/>
 
